@@ -1,0 +1,6 @@
+{
+  "name": "EquiliForce: Form 5 Physics Interactive Lab",
+  "description": "Interactive classroom learning app for Form 5 Physics: Equilibrium of Forces, Resistant Force & Statics with live vector simulations, quizzes, collaborative whiteboard, and peer feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
